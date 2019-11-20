@@ -1,9 +1,8 @@
 # AngularBuildOnce
 
+This repository is used for a demo of how to use the [Angular Build-once (in Angular-way)](https://medium.com/@sherlyfebrianti96/angular-one-time-build-5c670837d5c7?sk=d07214e0a55124fabb401eef126571e4).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
-
-This is a Demo Project for [Angular One-Time Build article](https://medium.com/@sherlyfebrianti96/angular-one-time-build-5c670837d5c7?sk=d07214e0a55124fabb401eef126571e4). 
-
 
 ## Development server
 
