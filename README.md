@@ -4,6 +4,10 @@ This repository is used for a demo of how to use the [Angular Build-once (in Ang
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
+## How to see the Article Explanation
+
+**Check on the commits**, it wil tell you about changes that has been done.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
